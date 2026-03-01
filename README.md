@@ -18,6 +18,14 @@ Game Over display
 
 Continuous animation using requestAnimationFrame
 
+Technologies Used:
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla JS)
+
 Controls:
 
 ⬅️ Left Arrow → Move left
